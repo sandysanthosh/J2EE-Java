@@ -27,3 +27,15 @@ SONQAR QUBE
 AGILE/SCRUM 
 
 ```
+
+ #### Java Checklist:
+```
+Cross Browser Compatibility
+PSD to HTML
+Localization
+Performance
+Security
+W3C Validation
+Design
+
+```
